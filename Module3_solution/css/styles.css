@@ -1,0 +1,29 @@
+/** HEADER **/
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color: #951C49;
+	text-align: center
+}
+
+#nav-list a:hover{
+	color: Blue;
+}
+
+#header{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.box-header{
+	text-align: center;	
+}
+
+.box{
+	background-color: #951C49;
+	color: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
